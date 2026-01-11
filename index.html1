@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Payment Verification</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f4; padding: 20px; }
+        .card { background: white; padding: 20px; border-radius: 10px; max-width: 400px; margin: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        .btn { background-color: #007bff; color: white; padding: 12px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 15px; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h2>Step 1: Pay ₹20</h2>
+        <img src="https://i.ibb.co/Kx5jBvpN/Paytm-QRcode-1768137322803.png" width="200" style="border: 1px solid #ddd; border-radius: 5px;">
+        <br>
+        <p><b>UPI:</b> dwaipayanbhai@ptsbi</p>
+        
+        <hr>
+
+        <h2>Step 2: Upload Screenshot</h2>
+        <p>After payment, upload the screenshot to get the link instantly.</p>
+
+        <a href=https://docs.google.com/forms/d/e/1FAIpQLSdPpFufv9c04k7tL4J3HDyB2DeF4wMtG7AKsn_9X5jrDj_JQw/viewform?usp=publish-editor class="btn">
+            📤 Upload & Get Link
+        </a>
+    </div>
+
+</body>
+</html>
